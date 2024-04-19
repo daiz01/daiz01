@@ -27,11 +27,3 @@
 <br clear="both">
 
 <h3 align="center">I don't really do much thing here. 💀</h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/daiz01/daiz01/output/snake.svg" alt="Snake animation" />
-
-###
