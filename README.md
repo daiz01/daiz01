@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋! I'm daiz</h2>
+<h1 align="left">Hi there 👋! I'm daiz</h1>
 
 ###
 
@@ -20,10 +20,24 @@
 
 ###
 
+<br clear="both">
+
+<h3 align="center">I don't really do much thing here. 💀</h3>
+
+###
+
 <img align="right" height="150" src="https://media1.tenor.com/m/4y1MIXzU65IAAAAC/wangan-wmmt.gif"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/xluGqr1fARIAAAAC/wmmt.gif"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">I don't really do much thing here. 💀</h3>
+<h5 align="right">not my gif btw</h5>
+
+###
